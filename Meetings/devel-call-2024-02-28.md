@@ -24,13 +24,13 @@ Adam Dunlap, Cláudio Carvalho, Dionna Glaze, Eddie Dong, Joerg Roedel, Jon Lang
 * Oliver Steffen initiated discussion on implementing persistency for the SVSM by writing to the P flash.
 * Dionna Glaze: Suggested using sealing for persistence.
 * Discussion:
-** Dionna emphasized the importance of replay protection, mentioning hardware monotonic counters and escrow services as potential solutions.
-** Jon Lange clarified the distinction between protecting individual files and the entire filesystem, suggesting that self-consistency within the filesystem might be achievable without a monotonic counter.
+  * Dionna emphasized the importance of replay protection, mentioning hardware monotonic counters and escrow services as potential solutions.
+  * Jon Lange clarified the distinction between protecting individual files and the entire filesystem, suggesting that self-consistency within the filesystem might be achievable without a monotonic counter.
 * Next Steps: The group agreed to explore design options for persistency, keeping in mind:
-** Encryption layer for data protection.
-** Block layer to allow for different backend options (P flash, remote storage, etc.).
-** Replay protection mechanisms, considering the points raised in the discussion.
-** Action Item: Joerg Roedel suggested adding this topic to a future meeting agenda for a more detailed discussion or discuss it via email.
+  * Encryption layer for data protection.
+  * Block layer to allow for different backend options (P flash, remote storage, etc.).
+  * Replay protection mechanisms, considering the points raised in the discussion.
+  * Action Item: Joerg Roedel suggested adding this topic to a future meeting agenda for a more detailed discussion or discuss it via email.
 
 ### Pull Request Text and Labeling:
 
