@@ -30,7 +30,7 @@ happening in a given week, please refer to the Google calendar link below.
 * When: Every Wednesday at 9am PST/12pm ET/5pm UTC/6pm CET
 * Where: [Google Meet](https://meet.google.com/ppv-xehx-dvb)
 * Google Calendar: [Link](https://calendar.google.com/calendar/embed?src=c_55a38f3460c638762a75d4fd6eda3b1cf455ec4cfd7f83201e3cbf817b420dd8%40group.calendar.google.com&ctz=Europe%2FBerlin)
-* [Meeting Minutes](Meetings/INDEX.md)
+* [Meeting Minutes](Meetings/)
 
 ### Conference Meet-ups
 
