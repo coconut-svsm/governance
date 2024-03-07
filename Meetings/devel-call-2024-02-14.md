@@ -45,8 +45,8 @@ Adam Dunlap, Carlos, Carlos Bilbao, Carlos López, David Altobelli, Eddie Dong, 
 
 * Jacob Xu inquired about the timeline for deprecating the stage1 launch process.
 * Joerg Roedel suggested a staged approach:
-** Merge the IGVM documentation changes first, allowing users to continue using the old process.
-** Encourage everyone to switch to IGVM.
-** After sufficient adoption, remove the stage1 code and dependencies.
+  * Merge the IGVM documentation changes first, allowing users to continue using the old process.
+  * Encourage everyone to switch to IGVM.
+  * After sufficient adoption, remove the stage1 code and dependencies.
 * Adam Dunlap requested keeping stage1 available longer as Google cannot easily switch due to using a different VMM. Joerg Roedel agreed, as long as Google reports any issues encountered.
 
