@@ -15,7 +15,7 @@ Carlos López, Cláudio Carvalho, Dionna Glaze, Eddie Dong, Ernestine Anderson, 
 * The PR was well-received and appears to be working as intended.
 
 ### Interrupt Support in SVSM
-* Vijay dhanraj requested feedback on a PR regarding interrupt support for confidential VMs (issue #308).
+* Vijay dhanraj requested feedback on a PR regarding interrupt support for confidential VMs (issue #328).
 * Jon Lange and Joerg Roedel discussed the need for a virtual APIC emulation and interrupt model definition.
 * It was decided that Vijay and Jon would collaborate on this functionality.
 
