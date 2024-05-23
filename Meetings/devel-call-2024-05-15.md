@@ -52,3 +52,9 @@ Adam Dunlap, Carlos López, Chuanxiao Dong, Cláudio Carvalho, Ernestine Anderso
 
 * Cláudio Carvalho asks about the CFP deadline for the Confidential Computing microconference at the Linux Plumbers Conference 2024.
 * Joerg Roedel says that the deadline is not known and they haven't even sent out a CFP yet. They will work on getting a CFP out soon.
+
+## KVM Forum
+
+* KVM Forum will be held in [Brno, Czech Republic](https://kvm-forum.qemu.org/location) on September 22–23, 2024.
+* CFP deadline: June 7.
+* For those considering a talk about Coconut-SVSM: Let's coordinate a bit to avoid big overlaps.
