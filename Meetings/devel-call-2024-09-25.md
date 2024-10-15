@@ -30,7 +30,7 @@ Adam Dunlap, Cláudio Carvalho, Diego Gonzalez Villalobos, Dionna Glaze, James B
   * IGVM Builder Integration: Once Stage 2 becomes part of the IGVM builder, validation in Stage 2 might no longer be necessary.
 * Lib Module Optimization: The meeting discussed optimizing the Lib module to improve code sharing and build efficiency.
 
-### Other Topcis:
+### Other Topics:
 
 * System Calls Implementation: Peter Fang shared a draft PR for implementing system calls and the device model.
 * IGVM with TDX: The meeting discussed the status of IGVM with TDX, which is currently functional but requires code restructuring.
