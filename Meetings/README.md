@@ -2,6 +2,7 @@
 
 ## SVSM Development Call
 
+* [October 2nd, 2024](devel-call-2024-10-02.md)
 * [September 25th, 2024](devel-call-2024-09-25.md)
 * [September 11th, 2024](devel-call-2024-09-11.md)
 * [September 4th, 2024](devel-call-2024-09-04.md)
