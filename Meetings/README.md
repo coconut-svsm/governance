@@ -2,6 +2,10 @@
 
 ## SVSM Development Call
 
+### December 2024
+
+* [December 4th, 2024](devel-call-2024-12-04.md)
+
 ### November 2024
 
 * [November 27th, 2024](devel-call-2024-11-27.md)
