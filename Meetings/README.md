@@ -4,6 +4,7 @@
 
 ### December 2024
 
+* [December 18th, 2024](devel-call-2024-12-18.md)
 * [December 11th, 2024](devel-call-2024-12-11.md)
 * [December 4th, 2024](devel-call-2024-12-04.md)
 
