@@ -13,7 +13,7 @@ Adam Dunlap, Cláudio Carvalho, Dionna Glaze, Hajira Zaman, Joerg Roedel, Jon La
 ### Doc Website Generation Workflow Failure:
         
 * Joerg Roedel reported a failing doc website generation workflow on GitHub, possibly related to recent TPM changes.
-* Cláudio Carvalho offered to investigate the issue with Stephano, who made the recent changes.
+* Cláudio Carvalho offered to investigate the issue with Stefano, who made the recent changes.
 
 ### Undefined Behavior in TPM:
         
