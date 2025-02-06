@@ -4,6 +4,7 @@
 
 ### January 2025
 
+* [January 29th, 2025](devel-call-2025-01-29.md)
 * [January 15th, 2025](devel-call-2025-01-15.md)
 * [January 8th, 2025](devel-call-2025-01-08.md)
 
