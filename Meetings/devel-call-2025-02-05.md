@@ -1,4 +1,4 @@
-# Meeting Minutes: SVSM Development Call (January 29th, 2025)
+# Meeting Minutes: SVSM Development Call (February 5th, 2025)
 
 ## Attendees:
 
