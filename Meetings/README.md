@@ -2,6 +2,10 @@
 
 ## SVSM Development Call
 
+### February 2025
+
+* [February 5th, 2025](devel-call-2025-02-05.md)
+
 ### January 2025
 
 * [January 29th, 2025](devel-call-2025-01-29.md)
