@@ -4,6 +4,7 @@
 
 ### February 2025
 
+* [February 12th, 2025](devel-call-2025-02-12.md)
 * [February 5th, 2025](devel-call-2025-02-05.md)
 
 ### January 2025
