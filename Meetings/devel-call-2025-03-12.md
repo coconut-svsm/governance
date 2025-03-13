@@ -15,7 +15,7 @@ Adam Dunlap, Dionna Glaze, Geoffrey Ndu, Huibo Wang, James Bottomley, Joerg Roed
 ### Firmware UKI Project and Boot Methods:
 
 * A discussion arose about supporting only IGVM as a boot method for the COCONUT-SVSM project.
-* The firmware UKI (F-UKI) project, by AWS and RedHat, proposes a firmware config interface for VM firmware updates, which appears limited compared to IGVM.
+* The firmware UKI (F-UKI) project, by AWS and RedHat, proposes a firmware config interface in QEMU for VM firmware updates, which appears limited compared to IGVM.
 * Dionna Glaze noted that F-UKI might not cover all necessary cases, such as classifying the CPUID page for SEV-SNP.
 * Concerns were raised about the lack of support for specifying a VMSA page and the guest memory layout in UKI.
 * Paolo is reportedly working on changing KVM to reconstruct the SEV context on reset without VMM intervention, which could impact the firmware replacement protocol.
