@@ -30,7 +30,7 @@ Adam Dunlap, Dionna Glaze, Geoffrey Ndu, Huibo Wang, James Bottomley, Joerg Roed
 * Alternatives like Parallax libraries and Nikolai Stange's interface generator were discussed for marshalling/unmarshalling code.
 * Tom Lendacky questioned the need for an additional attestation command and how to specify templates.
 * Discussion about using an empty authorization for getting the public key out of the simulator.
-* Stefano Garzarella asked about the current TPM driver and whether it's okay to always pass a page to cover the entire ether plus buffer.
+* Stefano Garzarella asked about the current TPM driver and whether it's okay to always pass a page to cover the entire header plus buffer.
 * It was decided that the send command buffer should be restricted to a page.
 * James Bottomley confirmed that the TPM has a maximum size of 3968 bytes, which is under a page.
 * Tom Lendacky suggested a copy-to-user API to catch buffer size issues, but Stefano Garzarella pointed out that the buffer size can vary.
