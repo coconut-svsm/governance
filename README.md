@@ -13,9 +13,13 @@ The project mailing-list is a place for technical and non-technical discussions
 about the COCONUT-SVSM project. Upcoming project member meeting invites will be
 posted there as well.
 
-* List e-mail address: [svsm-devel@coconut-svsm.dev](mailto:svsm-devel@coconut-svsm.dev)
-* Subscriber link: [https://mail.8bytes.org/cgi-bin/mailman/listinfo/svsm-devel](https://mail.8bytes.org/cgi-bin/mailman/listinfo/svsm-devel)
-* List archives: [https://mail.8bytes.org/pipermail/svsm-devel/](https://mail.8bytes.org/pipermail/svsm-devel/)
+* List e-mail address: [coconut-svsm@lists.linux.dev](mailto:coconut-svsm@lists.linux.dev)
+* Subscribe: [Send mail to coconut-svsm+subscribe@lists.linux.dev](mailto:coconut-svsm+subscribe@lists.linux.dev)
+* List archives: [https://lore.kernel.org/coconut-svsm/](https://lore.kernel.org/coconut-svsm/)
+
+### Matrix Chat
+
+The COCONUT-SVSM community is on [Matrix.org](https://matrix.to/#/#coconut-svsm:matrix.org).
 
 ### Community Meetings
 
