@@ -25,15 +25,16 @@ The COCONUT-SVSM community is on [Matrix.org](https://matrix.to/#/#coconut-svsm:
 
 The SVSM community holds online meetings to discuss recent developments,
 project and design questions. The reference time for the meeting 6pm CET.
-Please keep daylight savings time changes in mind the looking up the time at
+Please keep daylight savings time changes in mind when looking up the time at
 your location.
 
 Weekly meetings might also get canceled. For information whether the meeting is
-happening in a given week, please refer to the Google calendar link below.
+happening in a given week, please refer to the COCONUT Community Calendar.
+Joining the meeting requires a free Linux Foundation account.
 
 * When: Every Wednesday at 9am PST/12pm ET/5pm UTC/6pm CET
-* Where: [Google Meet](https://meet.google.com/ppv-xehx-dvb)
-* Google Calendar: [Link](https://calendar.google.com/calendar/embed?src=c_55a38f3460c638762a75d4fd6eda3b1cf455ec4cfd7f83201e3cbf817b420dd8%40group.calendar.google.com&ctz=Europe%2FBerlin)
+* Where: [Linux Foundation Zoom Instance](https://zoom-lfx.platform.linuxfoundation.org/meeting/91564675975?password=74a7ea7b-e98c-443b-88cd-94ce45b977cd)
+* Community Calendar: [Link](https://zoom-lfx.platform.linuxfoundation.org/meetings/coconut-svsm?view=week)
 * [Meeting Minutes](Meetings/README.md)
 
 ### Conference Meet-ups
