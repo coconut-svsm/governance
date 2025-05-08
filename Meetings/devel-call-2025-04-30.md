@@ -30,7 +30,7 @@
 ### Rust Update:
 
 * Dionna Glaze discussed a PR to update Rust from 182 to 1.84.1, which addresses linter and clippy failures and enables access to the strict providence feature.
-* Joerg Roedel suggested updating to 1.186 in a follow-on PR.
+* Joerg Roedel suggested updating to 1.86 in a follow-on PR.
 
 ### Specification Work:
 
