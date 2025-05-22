@@ -10,7 +10,7 @@
   * Increase the project's bus factor.
   * Help with PR reviews, testing, merging, and strategy issues.
   * Provide a venue for architectural discussions and decisions.
-* TSC members include Jörg Rödel (chair), Peter Fangs, Stefano Garzarella, and John Lang.
+* TSC members include Jörg Rödel (chair), Peter Fang, Stefano Garzarella, and Jon Lange.
 * TSC members have write access to the COCONUT-SVSM repository, with a rule requiring one approval from a TSC member before merging any PR.
 * The TSC plans to grow as the project matures.
 * Decision-making in the TSC involves discussions and voting (yes, abstain, no), with no constituting a veto. The TSC chair can override a veto in exceptional circumstances.
