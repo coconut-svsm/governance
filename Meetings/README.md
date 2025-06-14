@@ -4,6 +4,7 @@
 
 ### June 2025
 
+* [June 11th, 2025](devel-call-2025-06-11.md)
 * [June 4th, 2025](devel-call-2025-06-04.md)
 
 ### May 2025
