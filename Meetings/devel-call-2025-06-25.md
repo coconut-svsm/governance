@@ -37,7 +37,7 @@
   * ~146 under kernel/
   * ~62 in mem (memory management)
   * ~30 in cpu
-  * Others in pods, virtio drivers.
+  * Others in fuzz, virtio drivers.
 * The goal is to reduce them to zero to enable permanent linting and simplify the CI process.
 * Invited everyone to help and to coordinate by sending a short note to the mailing list to avoid duplicate work.
 
