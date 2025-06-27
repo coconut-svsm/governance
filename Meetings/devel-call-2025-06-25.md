@@ -25,7 +25,7 @@
   * He attempted a rebase onto QEMU master to debug a Linux boot issue (hanging at some point), which he believes is not related to the IGVM patches but possibly to the 6.11 kernel and new QEMU.
   * Encountered issues with other patches on their current QEMU branch, as they rely on features from the 6.11 SVSM kernel that are not yet upstream (e.g., direct setting of the VMSA).
   * Encouraged Vaishali to proceed if she has time, and to report on her progress.
-* Stefano Garzarella (Red Hat) asked if the upstream TPM driver (now in 6.16 kernel) should be backported to our 4 (their Linux branch).
+* Stefano Garzarella (Red Hat) asked if the upstream TPM driver (now in 6.16 kernel) should be backported to our fork (https://github.com/coconut-svsm/linux).
   * Jörg Rödel suggested documenting that for guests, an upstream kernel should be used. He tests with an upstream kernel in his guest image, and when 6.16 hits rolling distros, people can use those images out of the box.
 
 ### Undocumented Unsafe Blocks
