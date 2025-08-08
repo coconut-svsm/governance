@@ -10,7 +10,7 @@
 * IGVM Memory Map Support for OVMF: Jörg provided an update that work is being done on this.
   * The proposed approach is to use the IGVM interface to create an IGVM memory map in the SVSM and place it at an expected location for OVMF to pick up.
   * The reasoning is that this would also help a non-SVSM setup (e.g., a VMPL0-only guest) and align with how the hypervisor would communicate with OVMF.
-* PR #774 (TPM Bindings): This PR was mentioned as needing review.
+* PR [#774 (TPM Bindings)](https://github.com/coconut-svsm/svsm/pull/774): This PR was mentioned as needing review.
 * GitHub Milestones: For the September development release, the team will try using GitHub milestones in parallel with the current tag system to see which is more effective for tracking issues and PRs.
 
 ### Dynamic Device Discovery
