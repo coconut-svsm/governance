@@ -4,6 +4,7 @@
 
 ### October 2025
 
+* [October 8th, 2025](devel-call-2025-10-08.md)
 * [October 1st, 2025](devel-call-2025-10-01.md)
 
 ### September 2025
