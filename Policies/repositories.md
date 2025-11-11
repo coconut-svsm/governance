@@ -8,7 +8,7 @@ COCONUT-SVSM Repository Governance and Maintainership Policy
 The goal of this policy is to ensure the health, continuity, and collaborative
 spirit of all projects in the COCONUT-SVSM ecosystem. This document defines
 roles and expectations for repository ownership and outlines the supportive
-oversight role of the Technical Steering Committee (TSC).
+oversight role of the Technical Steering Committee ([TSC](../Groups/TSC.md)).
 
 Our approach is designed to be supportive, empowering maintainers with autonomy
 while ensuring project stability and compliance with the overall ecosystem
@@ -31,10 +31,12 @@ organization, it must meet the following criteria:
 
 ## Technical Steering Committee (TSC) Access
 
-To guarantee long-term project continuity and security, the TSC will be granted
-admin access to all repositories within the organization.
+To guarantee long-term project continuity and security, the
+[TSC](../Groups/TSC.md) will be granted admin access to all repositories
+within the organization.
 
-* **Principle of Non-Intervention:** The TSC will generally act as an observer.
+* **Principle of Non-Intervention:** The [TSC](../Groups/TSC.md) will generally
+  act as an observer.
   It will only intervene in a repository's operations if significant issues
   arise that threaten the project's continuity, security, or the stability of
   the wider COCONUT-SVSM ecosystem.
