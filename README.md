@@ -37,6 +37,12 @@ Joining the meeting requires a free Linux Foundation account.
 * Community Calendar: [Link](https://zoom-lfx.platform.linuxfoundation.org/meetings/coconut-svsm?view=week)
 * [Meeting Minutes](Meetings/README.md)
 
+### Project Groups
+
+The COCONUT-SVSM project has established formal groups to organize
+decision-making and technical oversight. More information can be found on the
+[Groups](Groups/README.md) page.
+
 ### Project Policies
 
 The COCONUT-SVSM project has put in place a number of policies around code
