@@ -61,4 +61,4 @@ The TSC holds regular development calls scheduled via the mailing list. During t
 
 ## Code of Conduct
 
-All TSC members must adhere to the project's [Code of Conduct](https://github.com/coconut-svsm/svsm/blob/main/CODE_OF_CONDUCT.md), setting an example for the community and ensuring a respectful, inclusive environment.
+All TSC members must adhere to the project's [Code of Conduct](../CODE_OF_CONDUCT.md), setting an example for the community and ensuring a respectful, inclusive environment.
