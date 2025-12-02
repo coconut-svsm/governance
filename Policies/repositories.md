@@ -68,6 +68,10 @@ documented and had a chance to be reviewed by the community.
 
 Maintainers must ensure:
 
+* **Code of Conduct:** All maintainers must adhere to and enforce the project's
+  [Code of Conduct](../CODE_OF_CONDUCT.md), fostering a respectful and inclusive
+  environment for all contributors. Repositories are strongly encouraged to
+  include a copy of the Code of Conduct in their repository root.
 * **Developer Certificate of Origin (DCO) Compliance:** All submissions to
   repositories must ensure compliance with the Developer Certificate of Origin
   (DCO).
