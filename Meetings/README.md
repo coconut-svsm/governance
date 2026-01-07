@@ -4,6 +4,7 @@
 
 ### December 2025
 
+* [December 17th, 2025](devel-call-2025-12-17.md)
 * [December 3rd, 2025](devel-call-2025-12-03.md)
 
 ### November 2025
