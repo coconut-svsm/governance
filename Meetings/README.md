@@ -4,6 +4,7 @@
 
 ### January 2026
 
+* [January 14th, 2026](devel-call-2026-01-14.md)
 * [January 7th, 2026](devel-call-2026-01-07.md)
 
 ### December 2025
