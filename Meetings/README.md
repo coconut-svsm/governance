@@ -4,6 +4,8 @@
 
 ### September 2026
 
+* [September 30th, 2026](devel-call-2026-09-30.md)
+* [September 23rd, 2026](devel-call-2026-09-23.md)
 * [September 16th, 2026](devel-call-2026-09-16.md)
 * [September 9th, 2026](devel-call-2026-09-09.md)
 * [September 2nd, 2026](devel-call-2026-09-02.md)
