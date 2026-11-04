@@ -2,6 +2,10 @@
 
 ## SVSM Development Call
 
+### November 2026
+
+* [November 4th, 2026](devel-call-2026-11-04.md)
+
 ### October 2026
 
 * [October 28th, 2026](devel-call-2026-10-28.md)
