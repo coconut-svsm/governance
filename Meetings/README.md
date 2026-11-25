@@ -4,6 +4,7 @@
 
 ### November 2026
 
+* [November 18th, 2026](devel-call-2026-11-18.md)
 * [November 4th, 2026](devel-call-2026-11-04.md)
 
 ### October 2026
